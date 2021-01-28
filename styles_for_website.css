@@ -1,0 +1,39 @@
+body {
+  background-color: #ffda77;
+}
+
+/*this is a comment*/
+/*below is the css for the hr*/
+hr {
+  height: 10;
+  border-color:#bbbbbb;
+  border-style:dotted none none none;
+  border-width:5px;
+  width:5%
+}
+
+h3{
+  color:#66BFBF;
+}
+
+h2{
+  color:#66BFBF;
+}
+
+img{
+height:  500;
+}
+
+/********************title id*******************/
+
+#title{
+  align-content: center;
+  color:#61b15a;
+  font-size:50px;
+}
+
+/***********************avrs class**************/
+
+.avrs:hover{
+  color: red;
+}
